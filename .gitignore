@@ -2,5 +2,5 @@ Smart_Contract/node_modules
 Smart_Contract/.env
 Smart_Contract/artifacts/@openzeppelin
 
-backend/node_modules
-backend/.env
+Backend/node_modules
+Backend/.env
